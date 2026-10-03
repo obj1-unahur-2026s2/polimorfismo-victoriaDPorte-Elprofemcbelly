@@ -60,19 +60,19 @@ Se pide:
 
 **Métodos**
 
-- altura X
-- cambiarAltura X
-- cambiarCantidadDeInvitados X
+- altura 
+- cambiarAltura 
+- cambiarCantidadDeInvitados 
 - cambiarDisciplina
 - cambiarElemento
-- cambiarEntrenadores X
-- cantidadDeInvitados X
+- cambiarEntrenadores 
+- cantidadDeInvitados 
 - costoElemento
-- cumplirAnios X
-- edad X
-- entrenadores X
-- medallasDeJudoGanadas X
-- presupuesto X
+- cumplirAnios 
+- edad 
+- entrenadores 
+- medallasDeJudoGanadas 
+- presupuesto 
 - presupuestoDisciplina
-- sumarUnaMedallaDeJudoGanada X
-- valorPorEntrenador X
+- sumarUnaMedallaDeJudoGanada 
+- valorPorEntrenador 
